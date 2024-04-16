@@ -20,6 +20,10 @@ IDE:
 ![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579)
 
 Hardware:
+- Protopyping:
+![arduino_103028](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/80e6fbf2-b446-4311-8be3-b2af72c5f9d7)
+
+
 
 ![mcu](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9434e941-b0e7-4ddf-9dc6-c86668c1095f)
 ![html5](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/65d9c097-9ed6-433f-b8e6-2b214ad97b00)
