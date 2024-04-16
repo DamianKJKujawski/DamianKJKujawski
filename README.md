@@ -7,7 +7,5 @@
 ![android](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/7559223e-6aba-4776-ab0e-d435a3f324b6)
 ![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579)
 ![mcu](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9434e941-b0e7-4ddf-9dc6-c86668c1095f)
-![html5](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/49e8b498-341d-462f-ac35-7e1f246280b6)
-![css](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/3011d384-9c58-4f0c-adff-7989446c20a4)
-
-
+![html5](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/65d9c097-9ed6-433f-b8e6-2b214ad97b00)
+![css](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d42a4323-d2c3-42f5-a4b7-54936ae6e2a7)
