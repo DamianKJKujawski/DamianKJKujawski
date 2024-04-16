@@ -1,5 +1,6 @@
 ### Technologies I mainly use:
 
+
 Saftware / Firmware Programming:
 
 ![c](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/07d80066-1029-48d8-970e-058175ee32f3)
