@@ -36,6 +36,11 @@
   ![html5](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/65d9c097-9ed6-433f-b8e6-2b214ad97b00)
   ![css](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d42a4323-d2c3-42f5-a4b7-54936ae6e2a7)
 
+- __DATABASES__:
+  
+  ![282687](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9a24d545-f6f5-4435-be12-ec03483f26b3)
+  ![free-mysql-21-1174941](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/0a90ccb9-8e4a-4098-9cae-fb7adf5f0537)
+
 - __HARDWARE DESIGN__:
 
   - Prototyping:
