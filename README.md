@@ -30,6 +30,7 @@
 
 - Hardware:
 Protopyping:
+
     ![verilog](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/de536f02-f6d5-4de4-ae30-2d17ac6afc0a)
     ![arduino_103028](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/80e6fbf2-b446-4311-8be3-b2af72c5f9d7)
 
