@@ -5,5 +5,6 @@
 ![csharp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/4358133a-8228-4417-9c1a-c4967bd4d18d)
 ![pascal](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/5631bfae-92e1-4feb-a2d5-1fe2291fb16d)
 ![android](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/7559223e-6aba-4776-ab0e-d435a3f324b6)
+![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579)
 
 
