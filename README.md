@@ -45,8 +45,9 @@
 
   - MCU Families:
     
-     - ESP
-     - MSP430   
-     - LPC
+     - STM32
+     - LPC   
+     - MSP430
      - ATTINY
      - ATMEGA
+     - ESP
