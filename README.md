@@ -21,7 +21,7 @@
     
     ![cpp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/14c80172-1ba2-4ade-b699-136d068fffc2)
 
-- __Used IDE:__
+- __IDE - SOFTWARE:__
 
     ![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579) 
 ![android](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/7559223e-6aba-4776-ab0e-d435a3f324b6)
