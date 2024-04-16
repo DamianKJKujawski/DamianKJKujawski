@@ -1,6 +1,5 @@
 ### Technologies I mainly use:
-
-
+```
 Saftware / Firmware Programming:
 
 ![c](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/07d80066-1029-48d8-970e-058175ee32f3)
@@ -25,3 +24,4 @@ Hardware:
 ![php](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c8fee59b-f632-4815-8260-bea2dbfe41dc)
 ![wordpress](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9ad1b49c-2042-48c6-83c1-19b1375aae44)
 ![verilog](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/de536f02-f6d5-4de4-ae30-2d17ac6afc0a)
+```
