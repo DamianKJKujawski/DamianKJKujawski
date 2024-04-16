@@ -47,6 +47,6 @@
 
     ![mcu](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9434e941-b0e7-4ddf-9dc6-c86668c1095f) 
 
-
+        - ESP32
 
 
