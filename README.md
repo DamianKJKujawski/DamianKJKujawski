@@ -51,3 +51,8 @@
      - ATTINY
      - ATMEGA
      - ESP
+   
+  - FPGA Families:
+    
+     - CYPRESS
+     - XILINX
