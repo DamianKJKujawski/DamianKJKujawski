@@ -1,6 +1,6 @@
 ### TECHNOLOGIES I MAINLY USE:
 
-- __SOFTWARE PROGRAMMING:__
+- _SOFTWARE PROGRAMMING:_
 
     ![c](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/07d80066-1029-48d8-970e-058175ee32f3)
 ![cpp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/14c80172-1ba2-4ade-b699-136d068fffc2)
@@ -11,7 +11,7 @@
 
     ![xaml](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/1f2fb4c1-190c-4ead-8eda-c870b22d231f)
 
-- FIRMWARE PROGRAMMING:
+- _FIRMWARE PROGRAMMING:_
 
   - Energy efficient solutions:
     
