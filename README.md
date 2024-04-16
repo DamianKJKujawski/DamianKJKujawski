@@ -11,7 +11,7 @@ GUI:
 
 ![xaml](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/1f2fb4c1-190c-4ead-8eda-c870b22d231f)
 
-- SOFTWARE / FIRMWARE PROGRAMMING:
+- FIRMWARE PROGRAMMING:
 
 Energy efficient solutions:
 
