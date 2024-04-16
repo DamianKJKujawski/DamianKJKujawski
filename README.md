@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Technologies I mainly use:
 
 * Programming:
