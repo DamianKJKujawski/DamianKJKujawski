@@ -7,9 +7,9 @@
 ![csharp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/4358133a-8228-4417-9c1a-c4967bd4d18d)
 ![pascal](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/5631bfae-92e1-4feb-a2d5-1fe2291fb16d)
 
-GUI:
+  - GUI:
 
-![xaml](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/1f2fb4c1-190c-4ead-8eda-c870b22d231f)
+    ![xaml](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/1f2fb4c1-190c-4ead-8eda-c870b22d231f)
 
 - FIRMWARE PROGRAMMING:
 
