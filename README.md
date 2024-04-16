@@ -15,6 +15,7 @@
 
   ![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579) 
   ![android](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/7559223e-6aba-4776-ab0e-d435a3f324b6)
+  ![eclipse](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/187577ea-430c-475b-b568-d0b278f1f7b6)
 
 - __FIRMWARE PROGRAMMING:__
 
@@ -69,3 +70,5 @@
   ![arduino](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/80e6fbf2-b446-4311-8be3-b2af72c5f9d7)
   ![qt](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/00e47a5f-bffd-4a04-9251-a6c07488fab9)
   ![quartus](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/715f94f4-7266-488a-a27a-e61f2f4c5bb6)
+  ![eclipse(https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/aa3739ff-aebf-40d7-adc5-fd54fd254d66)
+
