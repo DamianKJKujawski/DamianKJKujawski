@@ -38,8 +38,8 @@
 
 - __DATABASES__:
   
-  ![282687](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9a24d545-f6f5-4435-be12-ec03483f26b3)
-  ![free-mysql-21-1174941](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/0a90ccb9-8e4a-4098-9cae-fb7adf5f0537)
+  ![sqllite](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d8149d51-20be-4d4e-b29b-e6e79bf0ce15)
+  ![mysql](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/0a90ccb9-8e4a-4098-9cae-fb7adf5f0537)
 
 - __HARDWARE DESIGN__:
 
