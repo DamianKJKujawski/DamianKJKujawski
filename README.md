@@ -1,4 +1,4 @@
-### Technologies I mainly use:
+### TECHNOLOGIES I MAINLY USE:
 
 - SOFTWARE PROGRAMMING:
 
