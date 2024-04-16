@@ -1,6 +1,6 @@
 ### TECHNOLOGIES I MAINLY USE:
 
-- _SOFTWARE PROGRAMMING:_
+- __SOFTWARE PROGRAMMING:__
 
     ![c](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/07d80066-1029-48d8-970e-058175ee32f3)
 ![cpp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/14c80172-1ba2-4ade-b699-136d068fffc2)
@@ -11,7 +11,7 @@
 
     ![xaml](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/1f2fb4c1-190c-4ead-8eda-c870b22d231f)
 
-- _FIRMWARE PROGRAMMING:_
+- __FIRMWARE PROGRAMMING:__
 
   - Energy efficient solutions:
     
@@ -21,7 +21,7 @@
     
     ![cpp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/14c80172-1ba2-4ade-b699-136d068fffc2)
 
-- Used IDE:
+- __Used IDE:__
 
     ![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579) 
 ![android](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/7559223e-6aba-4776-ab0e-d435a3f324b6)
