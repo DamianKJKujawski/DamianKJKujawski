@@ -7,7 +7,7 @@
 ![csharp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/4358133a-8228-4417-9c1a-c4967bd4d18d)
 ![pascal](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/5631bfae-92e1-4feb-a2d5-1fe2291fb16d)
 
-  - GUI:
+  - Front-End:
 
     ![xaml](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/1f2fb4c1-190c-4ead-8eda-c870b22d231f)
 
@@ -35,12 +35,20 @@
     ![verilog](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/de536f02-f6d5-4de4-ae30-2d17ac6afc0a)
     ![arduino_103028](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/80e6fbf2-b446-4311-8be3-b2af72c5f9d7)
 
+- Web Technologies:
+  
+    ![php](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c8fee59b-f632-4815-8260-bea2dbfe41dc)
+    ![wordpress](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9ad1b49c-2042-48c6-83c1-19b1375aae44)
+
+  - Front-End:
+
+![html5](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/65d9c097-9ed6-433f-b8e6-2b214ad97b00)
+![css](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d42a4323-d2c3-42f5-a4b7-54936ae6e2a7)
+
 
 
 ![mcu](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9434e941-b0e7-4ddf-9dc6-c86668c1095f)
-![html5](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/65d9c097-9ed6-433f-b8e6-2b214ad97b00)
-![css](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d42a4323-d2c3-42f5-a4b7-54936ae6e2a7)
-![php](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c8fee59b-f632-4815-8260-bea2dbfe41dc)
-![wordpress](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9ad1b49c-2042-48c6-83c1-19b1375aae44)
+
+
 
 
