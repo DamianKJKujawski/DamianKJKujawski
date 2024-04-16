@@ -23,8 +23,8 @@
 
 - Used IDE:
 
+    ![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579) 
 ![android](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/7559223e-6aba-4776-ab0e-d435a3f324b6)
-![visualstudio](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c5539749-55b6-430b-848f-64c7050ca579)
 
 
 
