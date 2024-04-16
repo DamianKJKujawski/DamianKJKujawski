@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Example Image](https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png](images/example.png)
+![Example Image](raw.githubusercontent.com/github/explore/main/topics/bash/bash.png](images/example.png)
 
 
 <!--
