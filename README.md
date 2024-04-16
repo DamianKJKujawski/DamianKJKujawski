@@ -30,8 +30,8 @@
 
 - Hardware:
 Protopyping:
-
-![arduino_103028](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/80e6fbf2-b446-4311-8be3-b2af72c5f9d7)
+    ![verilog](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/de536f02-f6d5-4de4-ae30-2d17ac6afc0a)
+    ![arduino_103028](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/80e6fbf2-b446-4311-8be3-b2af72c5f9d7)
 
 
 
@@ -40,5 +40,5 @@ Protopyping:
 ![css](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d42a4323-d2c3-42f5-a4b7-54936ae6e2a7)
 ![php](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c8fee59b-f632-4815-8260-bea2dbfe41dc)
 ![wordpress](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9ad1b49c-2042-48c6-83c1-19b1375aae44)
-![verilog](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/de536f02-f6d5-4de4-ae30-2d17ac6afc0a)
+
 
