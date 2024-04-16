@@ -43,7 +43,7 @@
   ![verilog](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/de536f02-f6d5-4de4-ae30-2d17ac6afc0a)
   ![arduino](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/80e6fbf2-b446-4311-8be3-b2af72c5f9d7)
   ![qt](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/00e47a5f-bffd-4a04-9251-a6c07488fab9)
-  ![quartusprime](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/52c0010c-58b9-47aa-b21f-84a64fe25c18)
+  ![quartus](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/715f94f4-7266-488a-a27a-e61f2f4c5bb6)
 
 
   - MCU Families:
