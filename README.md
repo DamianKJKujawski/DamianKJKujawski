@@ -38,9 +38,9 @@
   ![css](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d42a4323-d2c3-42f5-a4b7-54936ae6e2a7)
 
 - __DATABASES__:
-  
-  ![sqllite](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d8149d51-20be-4d4e-b29b-e6e79bf0ce15)
+
   ![mysql](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/0a90ccb9-8e4a-4098-9cae-fb7adf5f0537)
+  ![sqllite](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/d8149d51-20be-4d4e-b29b-e6e79bf0ce15)
 
 - __HARDWARE DESIGN__:
 
