@@ -6,6 +6,7 @@
   ![cpp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/14c80172-1ba2-4ade-b699-136d068fffc2)
   ![csharp](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/4358133a-8228-4417-9c1a-c4967bd4d18d)
   ![pascal](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/5631bfae-92e1-4feb-a2d5-1fe2291fb16d)
+  ![java](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c4a66b9a-6f8f-4446-bf7e-64340a7f5878)
 
   - Front-End:
 
