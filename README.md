@@ -9,7 +9,7 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 
 A voice command recognition project based on a neural network from the BASE-PROJECTS repository. It's a simple implementation recognizing spelled-out words. Recognizing entire words would require a different neural network and a much larger database than the one utilized here.
 
-https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/78d251eb-b6b4-4e17-ae42-d052795ae576
+https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/cc4aa7a5-2616-4b09-aafd-c010896a42be
 
 ### TECHNOLOGIES I MAINLY USE:
 
