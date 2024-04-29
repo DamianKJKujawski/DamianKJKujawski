@@ -80,8 +80,3 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
   ![qt](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/00e47a5f-bffd-4a04-9251-a6c07488fab9)
   ![quartus](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/715f94f4-7266-488a-a27a-e61f2f4c5bb6)
   ![eclipse_94656](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a4da4b36-704e-4269-8f0e-b3371225a55b)
-
-- __PROJECT MANAGEMENT TOOLS:__
-
-     - ZOHO
-     - JIRA
