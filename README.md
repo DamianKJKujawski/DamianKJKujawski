@@ -5,12 +5,6 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 
 <img src="https://github.com/DamianKJKujawski/Base-Projects/assets/160174331/d0922a4b-0dfc-4e24-85c0-679c9a000489" alt="i1" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/Base-Projects/assets/160174331/34271491-5f07-4c16-9963-a1e73bfd446b" alt="i2" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/5d329964-e015-468b-9684-0b678320d5ec" alt="i3" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/PCB/assets/160174331/518f5a54-8ba5-4e70-8c17-e57654997c92" alt="i4" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/PCB/assets/160174331/ec14f3ef-ac88-42a4-b10b-05f8bec9cfd2" alt="i5" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/TinyOS/assets/160174331/4f0a33c8-c478-4984-ba18-c1bda71e95c3" alt="i6" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/dfadcb17-2b32-4ba6-881e-ed2e17ea7423" alt="i7" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/e6d47e19-41f8-4629-80c9-ed68a6487a6a" alt="i8" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a793ceea-deac-443f-aa0c-dda869748722" alt="i9" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/94661f8b-d860-4be2-91c2-2c7099fb7166" alt="i10" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/b0c89f53-8298-4484-a8b5-cd56b84cb026" alt="i11" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c7a50079-8ac7-4475-8f74-ddcd0c5a870c" alt="i12" style="width:180px;height:140px;"> 
 
-### PROJECT RECENTLY CREATED FOR FUN:
-
-A voice command recognition project based on a neural network from the BASE-PROJECTS repository. It's a simple implementation recognizing spelled-out words. Recognizing entire words would require a different neural network and a much larger database than the one utilized here.
-<img src="[https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/c7a50079-8ac7-4475-8f74-ddcd0c5a870c](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a888467b-4eee-4d26-8936-7492b28ee662)" alt="i12" style="width:180px;height:140px;"> 
-https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a888467b-4eee-4d26-8936-7492b28ee662
-
 ### TECHNOLOGIES I MAINLY USE:
 
 - __SOFTWARE PROGRAMMING:__
@@ -85,3 +79,11 @@ https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a888467b-4
   ![qt](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/00e47a5f-bffd-4a04-9251-a6c07488fab9)
   ![quartus](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/715f94f4-7266-488a-a27a-e61f2f4c5bb6)
   ![eclipse_94656](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a4da4b36-704e-4269-8f0e-b3371225a55b)
+
+
+
+### PROJECT RECENTLY CREATED FOR FUN:
+
+A voice command recognition project based on a neural network from the BASE-PROJECTS repository. It's a simple implementation recognizing spelled-out words. Recognizing entire words would require a different neural network and a much larger database than the one utilized here.
+
+https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a888467b-4eee-4d26-8936-7492b28ee662
