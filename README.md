@@ -1,8 +1,8 @@
 GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-Projects](https://github.com/DamianKJKujawski/Ideas-Projects) [MicroOS](https://github.com/DamianKJKujawski/MicroOS) [Electronics](https://github.com/DamianKJKujawski/Electronics) [Design Patterns](https://github.com/DamianKJKujawski/DesignPatterns) [MulticorePLCUnit](https://github.com/DamianKJKujawski/MulticorePLCUnit) [PCB Design](https://github.com/DamianKJKujawski/PCB)
 
+### PROJECTS OVERWIEV:
+
 <img src="https://github.com/DamianKJKujawski/Base-Projects/assets/160174331/d0922a4b-0dfc-4e24-85c0-679c9a000489" alt="neural" style="width:300px;height:200px;"> <img src="https://github.com/DamianKJKujawski/Base-Projects/assets/160174331/34271491-5f07-4c16-9963-a1e73bfd446b" alt="neural" style="width:300px;height:200px;"> <img src="https://github.com/DamianKJKujawski/Base-Projects/assets/160174331/7a0f1b09-13c1-4e79-80ee-067c195ef684" alt="neural" style="width:300px;height:110px;"> <img src="https://github.com/DamianKJKujawski/PCB/assets/160174331/518f5a54-8ba5-4e70-8c17-e57654997c92" alt="neural" style="width:300px;height:200px;"> <img src="https://github.com/DamianKJKujawski/TinyOS/assets/160174331/4f0a33c8-c478-4984-ba18-c1bda71e95c3" alt="neural" style="width:300px;height:200px;"> <img src="https://github.com/DamianKJKujawski/Electronics/assets/160174331/c0625742-801d-42d7-80d7-0df6dd739875" alt="neural" style="width:300px;height:200px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/e6d47e19-41f8-4629-80c9-ed68a6487a6a" alt="neural" style="width:300px;height:200px;"> 
-
-
 
 ### TECHNOLOGIES I MAINLY USE:
 
