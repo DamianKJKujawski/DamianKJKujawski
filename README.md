@@ -87,5 +87,6 @@ Goto: [Project recently created for fun](#NeuralNetworkImplementation)
 ### NeuralNetworkImplementation
 
 A voice command recognition project based on a neural network from the BASE-PROJECTS repository. It's a simple implementation recognizing spelled-out words. Recognizing entire words would require a different neural network and a much larger database than the one utilized here.
+In fact, Fourier Transform (FFT) is commonly used for sound analysis. FFT is applied to convert an audio signal from the time domain to the frequency domain, enabling the identification of characteristic sound features such as frequency and amplitude. The resulting transform would then be taken as input data for a neural network.
 
 https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a888467b-4eee-4d26-8936-7492b28ee662
