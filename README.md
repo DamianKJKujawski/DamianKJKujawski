@@ -7,8 +7,6 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/9c84405f-b521-49d9-ba15-aa38e20d9641" alt="i14" style="width:180px;height:140px;"> <img src="https://damiankjkujawski.github.io/about-me/media/work35_c4.jpg" alt="i15" style="width:180px;height:140px;"> <img src="https://damiankjkujawski.github.io/about-me/media/work38_c5.jpg" alt="i16" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/dfadcb17-2b32-4ba6-881e-ed2e17ea7423" alt="i7" style="width:180px;height:140px;"> <img src="https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/93ff1407-7f3a-4de5-a364-51c433f545bb" alt="i13" style="width:180px;height:140px;">
 
 
-Goto: [Projects recently created for fun](#NeuralNetworkImplementation)
-
 ### TECHNOLOGIES I MAINLY USE:
 
 - __SOFTWARE PROGRAMMING:__
