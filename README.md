@@ -83,13 +83,3 @@ Goto: [Projects recently created for fun](#NeuralNetworkImplementation)
   ![qt](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/00e47a5f-bffd-4a04-9251-a6c07488fab9)
   ![quartus](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/715f94f4-7266-488a-a27a-e61f2f4c5bb6)
   ![eclipse_94656](https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a4da4b36-704e-4269-8f0e-b3371225a55b)
-
-
-
-### PROJECTS RECENTLY CREATED FOR FUN:
-
-## NeuralNetworkImplementation
-
-A voice command recognition project based on a neural network from the BASE-PROJECTS repository. It's a simple implementation recognizing spelled-out words. Recognizing entire words would require a different neural network and a much larger database than the one utilized here. Moreover, in the process, Fourier Transform (FFT) is often utilized for sound analysis. FFT is applied to convert an audio signal from the time domain to the frequency domain, enabling the identification of characteristic sound features such as frequency and amplitude. The resulting transform would then be taken as input data for a neural network.
-
-https://github.com/DamianKJKujawski/DamianKJKujawski/assets/160174331/a888467b-4eee-4d26-8936-7492b28ee662
